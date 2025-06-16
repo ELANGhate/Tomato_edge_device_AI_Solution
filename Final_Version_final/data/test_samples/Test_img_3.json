@@ -1,0 +1,51 @@
+{
+	"version": "4.5.9",
+	"flags": {},
+	"shapes": [
+		{
+			"label": "tom_growth_bb",
+			"points": [
+				[
+					785,
+					659
+				],
+				[
+					854,
+					740
+				]
+			],
+			"group_id": null,
+			"shape_type": "rectangle",
+			"flags": {}
+		},
+		{
+			"label": "tom_growth_bb",
+			"points": [
+				[
+					754,
+					1226
+				],
+				[
+					826,
+					1286
+				]
+			],
+			"group_id": null,
+			"shape_type": "rectangle",
+			"flags": {}
+		}
+	],
+	"imagePath": "V001_tom5_45_025_a1_00_20211114_12_00105008_58868684.png",
+	"imageData": null,
+	"imageHeight": 1920,
+	"imageWidth": 1080,
+	"file_attributes": {
+		"fileVersion": "V001",
+		"farmId": "tom5",
+		"week": "45",
+		"number": "025",
+		"type": "a1",
+		"flowerCluster": "00",
+		"date": "20211114"
+	}
+}

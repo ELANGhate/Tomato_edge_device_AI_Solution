@@ -1,0 +1,38 @@
+{
+	"version": "4.5.9",
+	"flags": {},
+	"shapes": [
+		{
+			"label": "tom_leaf_bb",
+			"points": [
+				[
+					122.0,
+					756.0
+				],
+				[
+					693.7142857142858,
+					1487.4081632653063
+				]
+			],
+			"group_id": null,
+			"shape_type": "rectangle",
+			"flags": {}
+		}
+	],
+	"imagePath": "V001_tom3_40_034_a4_00_20211004_12_00075619_48291966.png",
+	"imageData": null,
+	"imageHeight": 1920,
+	"imageWidth": 1080,
+	"file_attributes": {
+		"fileVersion": "V001",
+		"farmId": "tom3",
+		"week": "40",
+		"number": "034",
+		"type": "a4",
+		"flowerCluster": "00",
+		"date": "20211004"
+	},
+	"growth_indicators": {
+		"numberOfLeaves": "21"
+	}
+}

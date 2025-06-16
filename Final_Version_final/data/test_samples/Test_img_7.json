@@ -1,0 +1,72 @@
+{
+	"version": "4.5.9",
+	"flags": {},
+	"shapes": [
+		{
+			"label": "tom_fruit_count_bb",
+			"points": [
+				[
+					438.78787878787875,
+					739.3939393939394
+				],
+				[
+					795.1515151515151,
+					1063.6363636363635
+				]
+			],
+			"group_id": null,
+			"shape_type": "rectangle",
+			"flags": {}
+		},
+		{
+			"label": "tom_fruit_count_bb",
+			"points": [
+				[
+					275.75757575757575,
+					689.6969696969696
+				],
+				[
+					544.8484848484848,
+					960.6060606060605
+				]
+			],
+			"group_id": null,
+			"shape_type": "rectangle",
+			"flags": {}
+		},
+		{
+			"label": "tom_fruit_count_bb",
+			"points": [
+				[
+					373.9393939393939,
+					487.27272727272725
+				],
+				[
+					668.4848484848484,
+					816.9696969696969
+				]
+			],
+			"group_id": null,
+			"shape_type": "rectangle",
+			"flags": {}
+		}
+	],
+	"imagePath": "V001_tom5_41_082_c_01_20211017_08_04105651_21089159.png",
+	"imageData": null,
+	"imageHeight": 1920,
+	"imageWidth": 1080,
+	"file_attributes": {
+		"fileVersion": "V001",
+		"farmId": "tom5",
+		"week": "41",
+		"number": "082",
+		"type": "c",
+		"flowerCluster": "01",
+		"date": "20211017"
+	},
+	"growth_indicators": {
+		"numberOfFruitPerPlant": 3,
+		"numberOfFruitPerTruss": "01",
+		"fruitingNode": "01"
+	}
+}

@@ -1,0 +1,40 @@
+{
+	"version": "4.5.9",
+	"flags": {},
+	"shapes": [
+		{
+			"label": "tom_flower_count_bb",
+			"points": [
+				[
+					406.1611374407583,
+					754.5023696682465
+				],
+				[
+					440.1459854014598,
+					821.5328467153284
+				]
+			],
+			"group_id": null,
+			"shape_type": "rectangle",
+			"flags": {}
+		}
+	],
+	"imagePath": "V001_tom1_42_069_b_11_20211021_17_00094953_40158887.png",
+	"imageData": null,
+	"imageHeight": 1920,
+	"imageWidth": 1080,
+	"file_attributes": {
+		"fileVersion": "V001",
+		"farmId": "tom1",
+		"week": "42",
+		"number": "069",
+		"type": "b",
+		"flowerCluster": "11",
+		"date": "20211021"
+	},
+	"growth_indicators": {
+		"floweringNode": "11",
+		"numberOfTheFlower": 1,
+		"numberOfTheFlowerPerTruss": "11"
+	}
+}

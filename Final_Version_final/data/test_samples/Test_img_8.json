@@ -1,0 +1,120 @@
+{
+	"version": "4.5.9",
+	"flags": {},
+	"shapes": [
+		{
+			"label": "tom_fruit_breaker_poly",
+			"points": [
+				[
+					636,
+					841
+				],
+				[
+					608,
+					891
+				],
+				[
+					608,
+					984
+				],
+				[
+					635,
+					1032
+				],
+				[
+					661,
+					1060
+				],
+				[
+					713,
+					1092
+				],
+				[
+					768,
+					1095
+				],
+				[
+					803,
+					1106
+				],
+				[
+					887,
+					1092
+				],
+				[
+					898,
+					1080
+				],
+				[
+					922,
+					1076
+				],
+				[
+					958,
+					1047
+				],
+				[
+					994,
+					984
+				],
+				[
+					995,
+					922
+				],
+				[
+					985,
+					887
+				],
+				[
+					968,
+					858
+				],
+				[
+					932,
+					825
+				],
+				[
+					915,
+					825
+				],
+				[
+					883,
+					811
+				],
+				[
+					768,
+					809
+				],
+				[
+					729,
+					797
+				],
+				[
+					676,
+					811
+				]
+			],
+			"group_id": null,
+			"shape_type": "polygon",
+			"flags": {}
+		}
+	],
+	"imagePath": "V001_tom1_49_037_e_10_20211208_24_05093705_49122255.png",
+	"imageData": null,
+	"imageHeight": 1920,
+	"imageWidth": 1080,
+	"file_attributes": {
+		"fileVersion": "V001",
+		"farmId": "tom1",
+		"week": "49",
+		"number": "037",
+		"type": "e",
+		"flowerCluster": "10",
+		"date": "20211208"
+	},
+	"growth_indicators": {
+		"numberOfFruitPerPlant": 1,
+		"numberOfFruitPerTruss": "10",
+		"fruitingNode": "10"
+	}
+}
